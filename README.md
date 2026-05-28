@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Shivansh</h1>
-<h3 align="center">B.Tech CSE (Data Science) Student • Aspiring Full Stack Developer • Open Source Contributor</h3>
+<h3 align="center">B.Tech CSE (Data Science) Student  • Web Developer • Problem Solver • Open Source Contributor</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (Data Science) student focused on building strong development fundamentals
+- 🎓 B.Tech CSE (Data Science) student focused on building strong software development fundamentals
 - 💻 Currently working on Web Development, DSA, and real-world projects
+- 🧠 Interested in scalable systems, problem-solving, and impactful products
 - 🌱 Exploring Open Source through GSSoC 2026
-- 🧠 Interested in scalable systems, problem solving, and impactful products
-- ⚡ Consistently improving through projects, collaboration, and hands-on learning
+- ⚡ Continuously improving through projects, collaboration, and hands-on learning
 
 ---
 
@@ -22,7 +22,7 @@
 - HTML5
 - CSS3
 
-### Development
+### Development Tools & Concepts
 - Git
 - GitHub
 - Responsive Web Design
@@ -62,12 +62,12 @@ Personal portfolio showcasing projects, skills, and development journey.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/shivanshcodes
-- GitHub: github.com/shivanshagrawal-27
+- LinkedIn: https://www.linkedin.com/in/shivanshcodes
+- GitHub: https://github.com/shivanshagrawal-27
 
 ---
 
 <p align="center">
-  <i>Building skills one project at a time 🚀</i>
+  <i>⭐ Always learning and building 🚀</i>
 </p>
-```
+
