@@ -27,10 +27,10 @@
 - GitHub
 - Responsive Web Design
 
-### Currently Learning
-- React
-- Node.js
-- Full Stack Development
+### Core Interests
+- Data Structures & Algorithms
+- Web Application Development
+- Scalable Systems
 - Open Source Collaboration
 
 ---
